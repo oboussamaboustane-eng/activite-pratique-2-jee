@@ -1,4 +1,4 @@
-package net.youssfi.demospringdata;
+package net.boustane.demospringdata.entities;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
